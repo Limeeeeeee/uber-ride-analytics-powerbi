@@ -6,10 +6,10 @@ for analysing Uber ride bookings.
 ## Dashboard Preview
 
 ### Home Page
-![Home](Screenshots/Home.png)
+![Home](Screenshot/Home.png)
 
 ### Overview Dashboard
-![Overview](Screenshots/Overview.png)
+![Overview](Screenshot/Overview.png)
 
 ## Tools Used
 - Power BI
